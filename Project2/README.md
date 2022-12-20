@@ -13,3 +13,5 @@
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+
+#### Find source code [here](https://github.com/nguyen912/Udacity_DataScientist/tree/main/Project2).
