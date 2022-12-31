@@ -26,7 +26,7 @@ The Random Forest classifier was selected as the best model by evaluating the in
 
 ### 6. Acknowledgements
 Dataset is provided by [Udacity](https://www.udacity.com/)
-The PySpark function is refer from:
+The PySpark functions and knowledge are refered from:
 - [Spark documentation](https://spark.apache.org/docs/latest/api/python/)
 - [geeksforgeeks.org](https://www.geeksforgeeks.org/introduction-pyspark-distributed-computing-apache-spark/)
 
